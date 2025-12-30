@@ -369,7 +369,7 @@ export default function Home() {
               title: "BitMoby",
               tech: "React • Context API",
               desc: "Bitcoin-based mobile top-up application with an administrative panel.",
-              tags: ["FinTech", "Blockchain"],
+              tags: ["BTCPay"],
               color: "violet",
               icon: <Database className="w-6 h-6" />,
             },
@@ -431,7 +431,7 @@ export default function Home() {
                     target="_blank"
                     className="text-white hover:text-blue-400 transition flex items-center gap-1 text-sm font-medium"
                   >
-                    Visit App <ExternalLink className="w-4 h-4" />
+                    {/* Visit App <ExternalLink className="w-4 h-4" /> */}
                   </a>
                 )}
               </div>
