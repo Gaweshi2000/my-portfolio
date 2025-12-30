@@ -89,9 +89,7 @@ export default function Home() {
                 <p className="text-blue-400 font-medium">
                   SLIIT • Specialized in Data Science{" "}
                 </p>
-                <p className="text-slate-500 text-sm mt-1">
-                  2021 — 2025 (Expected){" "}
-                </p>
+                <p className="text-slate-500 text-sm mt-1">2021 — 2025</p>
               </div>
 
               <div className="relative pl-8 border-l border-slate-700">
@@ -100,10 +98,10 @@ export default function Home() {
                   G.C.E. Advanced Level
                 </h3>
                 <p className="text-slate-400 font-medium">
-                  Physical Science Stream [cite: 81]
+                  Physical Science Stream
                 </p>
                 <p className="text-slate-500 text-sm mt-1">
-                  Yashodara Devi Balika Maha Vidyalaya [cite: 82]
+                  Yashodara Devi Balika Maha Vidyalaya
                 </p>
               </div>
             </div>
